@@ -3,3 +3,7 @@ The goal of this project was to use pandas, matplotlib and time series data to a
 
 **Tools:**
 - Python (numpy, pandas, matplotlib, time series data)
+
+**Repository Includes:**
+- Data used for analysis
+- Jupyter Notebook of analysis
